@@ -10,6 +10,12 @@ No login required. Open the app and start tracking immediately.
 
 ---
 
+## Quick Demo
+
+- https://youtu.be/SUoUr4styGk?si=bF9neLiACFvSAEv4
+  
+---
+
 ## Features
 
 ### Dashboard
